@@ -1,3 +1,5 @@
+<img width="900" height="190" alt="focus" src="https://github.com/user-attachments/assets/3138115d-e613-4f0f-81a9-e11897c448ab" />
+<img width="900" height="340" alt="hero" src="https://github.com/user-attachments/assets/c61caf81-59ef-4600-b173-5ff0c64e52c0" />
 <div align="center">
 
 <img src="./hero.svg" width="100%" alt="Gwen, Software Engineering Student and aspiring AI Engineer" />
