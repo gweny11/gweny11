@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090d16,50:18181b,100:27272a&height=210&section=header&text=Gwen%20//%20gweny11&fontSize=46&fontColor=e4e4e7&fontAlignY=42&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20AI%20Engineer&descSize=16&descColor=a1a1aa&descAlignY=66" width="100%" alt="Gwen Noir Banner" />
 
   <!-- OPSYEN GAMBAR SHIZUKU: Jika anda sudah upload fail banner.png ke dalam repo gweny11/gweny11, buang tanda komen pada baris di bawah untuk memaparkan gambar Shizuku: -->
-  <!-- <img src="./banner.png" width="100%" alt="Gwen Shizuku Noir Banner" /> -->
+   <img src="./banner.png" width="100%" alt="Gwen Shizuku Noir Banner" /> 
 
   <br/>
 
@@ -31,7 +31,8 @@
 
 <!-- GIF KODING SEBELAH KANAN (Terus berfungsi secara automatik) -->
 <!-- Jika anda sudah upload gambar Shizuku (banner.png) ke repo dan mahu letak di sebelah kanan ini, tukar src="..." di bawah kepada src="./banner.png" -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Noir Coding Aesthetic" />
+<img align="right" width="300" src="https:<img width="735" height="414" alt="banner" src="https://github.com/user-attachments/assets/21a796f3-30bc-4801-9ccc-27d8027e02f9" />
+//raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Noir Coding Aesthetic" />
 
 Hi, I'm **Gwen**, a Software Engineering diploma student from Malaysia, working toward a career in **AI Engineering**.
 
