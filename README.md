@@ -1,108 +1,143 @@
-<!-- ===================== HERO ===================== -->
+<!-- TOP HERO BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:8B5CF6&text=Gwen&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Gwen - Software Engineering Student, Aspiring AI Engineer" width="100%" />
+  <!-- PILIHAN 1 (LALAI): Banner Waving Dual-Aura (Merah & Biru Cyan mengikut warna video Asta) -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:991b1b,100:0284c7&height=210&section=header&text=Gwen%20//%20gweny11&fontSize=46&fontColor=f8fafc&fontAlignY=42&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20AI%20Engineer&descSize=17&descColor=38bdf8&descAlignY=66" width="100%" alt="Header Banner" />
 
-<a href="https://github.com/gweny11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Software+Engineering+Student;Aspiring+AI+Engineer;Learning+Python+%26+Machine+Learning;Curious+about+LLMs+%26+AI+Agents" alt="Typing animation" />
-</a>
+  <!-- PILIHAN 2: Jika anda mahu menjadikan GIF Asta sebagai Banner Paling Atas (seperti gambar rujukan), buang tanda komen di bawah: -->
+  <!-- <img src="./asta.gif" width="100%" alt="Asta Hero Banner" /> -->
 
-<br/>
+  <!-- ANIMATED TYPING TITLE -->
+  <a href="https://github.com/gweny11">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Gwen+here+%F0%9F%94%A5+!;Primary+Focus%3A+Python+%26+AI+Engineering+%F0%9F%A4%96;Software+Engineering+Diploma+Student+%F0%9F%92%BB;Exploring+LLMs%2C+Machine+Learning+%26+AI+Agents" alt="Typing SVG" />
+  </a>
 
-<img src="https://img.shields.io/badge/Location-Malaysia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF&labelColor=161B22" alt="Location: Malaysia" />
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=8B5CF6&labelColor=161B22" alt="Focus: AI Engineering" />
-<img src="https://img.shields.io/badge/Status-Always%20Learning-0D1117?style=for-the-badge&logo=gitbook&logoColor=58A6FF&labelColor=161B22" alt="Status: Always Learning" />
-
+  <h3>Hello there 👋 I'm Gwen</h3>
 </div>
 
 ---
 
-## 👋 About Me
+## 💫 About Me
 
-I'm **Gwen**, a Software Engineering diploma student based in Malaysia, working toward becoming an **AI Engineer**. I'm curious about how intelligent systems work, and I'm building a strong foundation in programming fundamentals along the way.
+<!-- PROFILE VIEWS & STATUS BADGES -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gweny11&label=Profile%20Views&color=e11d48&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Malaysia%20%F0%9F%87%B2%F0%9F%87%BE-0d1117?style=flat-square&labelColor=161b22&color=38bdf8" alt="Location: Malaysia" />
+  <img src="https://img.shields.io/badge/Main%20Focus-Python%20%26%20AI-0d1117?style=flat-square&labelColor=161b22&color=e11d48" alt="Main Focus: Python & AI" />
+</p>
 
-My long-term ambition is to build useful AI-powered products and develop solid technical skills. I'm still learning, and I enjoy that process.
+<!-- RIGHT SIDE ASTA GIF -->
+<!-- Pastikan anda telah menukar video .mp4 kepada asta.gif dan muat naik ke dalam repo gweny11/gweny11 -->
+<img align="right" width="340" src="./asta.gif" alt="Asta Coding Aura" />
 
----
+🌟 **Currently pursuing a Diploma in Software Engineering in Malaysia**
 
-## 🧠 Areas of Interest
+🐍 **Primary Focus: Mastering Python and building toward a career in AI Engineering**
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><b>🤖 AI Engineering</b></td>
-    <td align="center" width="33%"><b>📊 Machine Learning</b></td>
-    <td align="center" width="33%"><b>💬 Large Language Models</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><b>🧩 AI Agents</b></td>
-    <td align="center" width="33%"><b>🛠️ Software Engineering</b></td>
-    <td align="center" width="33%"><b>⚙️ Programming Fundamentals</b></td>
-  </tr>
-</table>
+🧠 **Deeply interested in Artificial Intelligence, Machine Learning, LLMs, and AI Agents**
 
----
+💻 **Building strong software foundations with HTML, PHP, SQL, and core programming fundamentals**
 
-## 🧰 Tech Stack & Tools
+🎯 **Long-term ambition: To build useful AI-powered products and develop strong technical skills**
 
-<div align="center">
+⚡ **Mindset: Curious, ambitious, and pushing past limits through continuous learning**
 
-**Languages**
+<br clear="both"/>
 
-<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
-
-<!--
-  Add icons ONLY for things you genuinely use. Examples:
-  Languages: js, ts, java, cpp, c, html, css, sql
-  Tools: vscode, linux, docker, jupyter (not available - use a badge), figma
-  Example: <img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" alt="Tools" />
--->
-
+<!-- CONNECT WITH ME (Right-aligned like reference image) -->
+<div align="right">
+  <p><b>🌟 Connect With Me:</b></p>
+  <a href="https://github.com/gweny11">
+    <img src="https://img.shields.io/badge/GitHub-gweny11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Optional LinkedIn: Gantikan YOUR_LINKEDIN_USERNAME dan buang tanda komen apabila sedia -->
+  <!--
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  -->
 </div>
 
 ---
 
-## 📈 GitHub Statistics
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gweny11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gweny11&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=gweny11&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/gweny11">
-  <img src="https://img.shields.io/badge/GitHub-gweny11-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub" />
-</a>
-
-<!-- Optional: uncomment and replace YOUR-LINKEDIN-USERNAME with your real profile URL slug.
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
-</a>
--->
-
+  <h3>👩‍💻 Languages, IDEs & Tools I Use</h3>
+  <p><i>Focused primarily on the Python & AI ecosystem, supported by web and database fundamentals.</i></p>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pycharm,vscode,html,php,mysql,git,github,md&theme=dark" alt="Languages and Tools" />
+  </a>
 </div>
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
+---
+
 <div align="center">
+  <h3>⚡ 📊 GitHub Stats</h3>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=520&height=30&lines=Learn+deliberately.+Build+thoughtfully.+Improve+continuously." alt="Learn deliberately. Build thoughtfully. Improve continuously." />
+  <!-- STATS & STREAK SIDE BY SIDE (Dual-Aura Crimson & Cyan Theme) -->
+  <a href="https://github.com/gweny11">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=gweny11&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e11d48&border_color=30363d&hide_border=false" alt="Gwen's GitHub Stats" />
+  </a>
+  <a href="https://github.com/gweny11">
+    <img height="175" src="https://streak-stats.demolab.com?user=gweny11&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=E11D48&fire=38BDF8&currStreakLabel=38BDF8" alt="Gwen's Streak Stats" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:8B5CF6&section=footer" alt="" width="100%" />
+  <br/><br/>
 
+  <!-- MOST USED LANGUAGES CENTERED BELOW -->
+  <a href="https://github.com/gweny11">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gweny11&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Most Used Languages" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h3>💻 Tech Stack & Learning Direction</h3>
+  <br/>
+
+  <p><b>🔥 Primary Focus (Python & AI Engineering)</b></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+    <img src="https://img.shields.io/badge/AI%20ENGINEERING-0d1117?style=for-the-badge&labelColor=0d1117&color=e11d48" alt="AI Engineering" />
+    <img src="https://img.shields.io/badge/MACHINE%20LEARNING-0d1117?style=for-the-badge&labelColor=0d1117&color=0284c7" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/LLMs%20%26%20AI%20AGENTS-0d1117?style=for-the-badge&labelColor=0d1117&color=e11d48" alt="LLMs & AI Agents" />
+  </p>
+
+  <p><b>🛠️ Software Engineering, Web & Database Foundations</b></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </p>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <sub><i>"Driven by curiosity, grounded in software fundamentals, and building toward intelligent systems."</i></sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:991b1b,100:0284c7&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
