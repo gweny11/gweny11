@@ -1,92 +1,132 @@
-<img width="900" height="190" alt="focus" src="https://github.com/user-attachments/assets/3138115d-e613-4f0f-81a9-e11897c448ab" />
-<img width="900" height="340" alt="hero" src="https://github.com/user-attachments/assets/c61caf81-59ef-4600-b173-5ff0c64e52c0" />
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Gwen, Software Engineering Student and aspiring AI Engineer" />
+<!--PROFILE VIEWS & STATUS PILLS-->
+<img src="https://komarev.com/ghpvc/?username=gweny11&label=PROFILE+VIEWS&color=06b6d4&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-MALAYSIA-0d1117?style=flat-square&labelColor=161b22&color=a855f7" alt="Location: Malaysia" />
+&nbsp;
+<img src="https://img.shields.io/badge/ROLE-SE+DIPLOMA+STUDENT-0d1117?style=flat-square&labelColor=161b22&color=06b6d4" alt="Role: SE Diploma Student" />
+
+<!--HERO BANNER-->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:4c1d95,100:0891b2&height=220&section=header&text=G%20W%20E%20N&fontSize=56&fontColor=f8fafc&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20ASPIRING%20AI%20ENGINEER&descSize=14&descColor=38bdf8&descAlignY=68&stroke=a855f7&strokeWidth=1" width="100%" alt="Gwen Header Banner" />
+
+<!--ANIMATED TYPING SUBTITLE-->
+<a href="https://github.com/gweny11">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+Foundations+in+Software+Engineering+%26+AI;Exploring+Machine+Learning%2C+LLMs+%26+AI+Agents;Driven+by+Curiosity%2C+Clean+Code+%26+Continuous+Growth" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gweny11&label=Profile%20Views&color=3f3f5a&style=flat-square" alt="Profile views" />
+<!--CORE FOCUS PILLS (INSPIRED BY REFERENCE TAGS)-->
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=38bdf8&labelColor=0d1117" alt="Python" />
+<img src="https://img.shields.io/badge/AI_Engineering-0d1117?style=for-the-badge&logo=sparkles&logoColor=a855f7&labelColor=0d1117" alt="AI Engineering" />
+<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=pytorch&logoColor=38bdf8&labelColor=0d1117" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/LLMs_%26_AI_Agents-0d1117?style=for-the-badge&logo=openai&logoColor=a855f7&labelColor=0d1117" alt="LLMs & AI Agents" />
+<img src="https://img.shields.io/badge/Software_Engineering-0d1117?style=for-the-badge&logo=git&logoColor=38bdf8&labelColor=0d1117" alt="Software Engineering" />
 
 </div>
 
 <br/>
 
-<div align="center">
+---
 
-<sub><b>ABOUT</b></sub>
+### `// 01. SYSTEM_OVERVIEW`
 
-</div>
-
-Hi, I'm **Gwen**, a Software Engineering diploma student from Malaysia, working toward a career in **AI Engineering**. I'm building strong programming fundamentals, with Python as my main focus, and I'm curious about AI, machine learning, LLMs and AI agents.
-
-My long-term ambition is to build useful AI-powered products and develop strong technical skills. I'm still learning, and I want to keep improving.
+<table>
+  <tr>
+    <td width="52%" valign="top">
+      <h4><b>About Me</b></h4>
+      <p>
+        Hi, I'm <b>Gwen</b> — a <b>Software Engineering diploma student</b> based in Malaysia with a strong curiosity for how intelligent systems are designed, built, and integrated into real-world software.
+      </p>
+      <p>
+        I am currently focused on strengthening my core programming fundamentals while actively learning the foundations of <b>Artificial Intelligence</b> and <b>AI Engineering</b>. My long-term goal is to grow into a well-rounded engineer capable of building reliable, useful AI-powered products.
+      </p>
+    </td>
+    <td width="48%" valign="top">
+      <h4><b>Areas of Interest</b></h4>
+      <ul>
+        <li><b>AI Engineering & Applied AI</b> — Bridging software architecture with modern AI capabilities.</li>
+        <li><b>LLMs & AI Agents</b> — Exploring language models, reasoning workflows, and autonomous agent patterns.</li>
+        <li><b>Machine Learning Foundations</b> — Understanding core data-driven concepts and model behavior.</li>
+        <li><b>Software Engineering</b> — Writing clean, maintainable code and mastering core computer science fundamentals.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+---
+
+### `// 02. TECH_STACK_&_TOOLS`
+
 <div align="center">
 
-<img src="./focus.svg" width="100%" alt="Current focus: Python, AI and Machine Learning, LLMs and AI Agents" />
+#### `LANGUAGES & CORE`
+<p>
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,md&theme=dark" alt="Languages and Core" />
+</p>
+
+#### `AI, DATA & EXPLORATION`
+<p>
+  <img src="https://img.shields.io/badge/Python_Ecosystem-161b22?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python Ecosystem" />
+  <img src="https://img.shields.io/badge/Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=f97316" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/LLM_APIs-161b22?style=for-the-badge&logo=openai&logoColor=a855f7" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/AI_Workflows-161b22?style=for-the-badge&logo=huggingface&logoColor=facc15" alt="AI Workflows" />
+</p>
+
+#### `DEVELOPMENT TOOLS & ENVIRONMENT`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development Tools" />
+</p>
 
 </div>
 
 <br/>
 
+---
+
+### `// 03. TELEMETRY_&_ANALYTICS`
+
 <div align="center">
 
-<sub><b>STACK ANALYTICS</b></sub>
+<picture>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gweny11&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=a855f7&border_color=30363d&hide_border=false" alt="Gwen's GitHub Stats" />
+</picture>
+<picture>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gweny11&layout=compact&langs_count=6&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Gwen's Top Languages" />
+</picture>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gweny11&layout=compact&hide_title=true&bg_color=07070f&border_color=1c1c2e&text_color=a1a1b5" alt="Most used languages" />
+<picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gweny11&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E" alt="Gwen's Contribution Streak" width="495" />
+</picture>
 
 </div>
 
 <br/>
 
-<div align="center">
+---
 
-<sub><b>GITHUB STATS</b></sub>
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gweny11&show_icons=true&hide_title=true&bg_color=07070f&border_color=1c1c2e&text_color=a1a1b5&icon_color=22d3ee&ring_color=8b5cf6" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=gweny11&background=07070F&border=1C1C2E&stroke=1C1C2E&ring=8B5CF6&fire=EC4899&currStreakLabel=C4B5FD&currStreakNum=F4F4F5&sideLabels=A1A1B5&sideNums=E4E4EE&dates=6B6B85" alt="GitHub streak" />
-
-</div>
-
-<br/>
+### `// 04. CONNECT`
 
 <div align="center">
-
-<sub><b>ACTIVITY PULSE</b></sub>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gweny11&bg_color=07070f&color=a1a1b5&line=8b5cf6&point=22d3ee&area=true&area_color=8b5cf6&hide_border=true&hide_title=true" width="100%" alt="Contribution activity graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub><b>CONNECT</b></sub>
-
-<br/><br/>
 
 <a href="https://github.com/gweny11">
-  <img src="https://img.shields.io/badge/GitHub-gweny11-0d0d1a?style=for-the-badge&logo=github&logoColor=e4e4ee&labelColor=07070f" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-gweny11-0d1117?style=for-the-badge&logo=github&logoColor=f8fafc&labelColor=161b22" alt="GitHub Profile" />
 </a>
-
-<!-- Optional: replace YOUR_LINKEDIN_USERNAME with your real slug, then remove this comment wrapper.
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=e4e4ee&labelColor=07070f" alt="LinkedIn" />
+&nbsp;
+<!-- Optional: Replace YOUR_LINKEDIN_URL_HERE with your actual LinkedIn profile URL, or delete the <a> block below if not needed -->
+<a href="YOUR_LINKEDIN_URL_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=161b22" alt="LinkedIn Placeholder" />
 </a>
--->
 
 <br/><br/>
 
-<sub><i>Driven by curiosity, grounded in software fundamentals, building toward intelligent systems.</i></sub>
+<sub><code>GWEN // CONTINUOUS LEARNING • THOUGHTFUL ENGINEERING • BUILDING FOR THE FUTURE</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:0891b2&height=85&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
