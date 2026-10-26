@@ -1,11 +1,10 @@
-<!-- TOP HERO BANNER -->
+<!-- TOP HERO BANNER (ASTA GIF) -->
 <div align="center">
 
-  <!-- PILIHAN 1 (LALAI): Banner Waving Dual-Aura (Merah & Biru Cyan mengikut warna video Asta) -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:991b1b,100:0284c7&height=210&section=header&text=Gwen%20//%20gweny11&fontSize=46&fontColor=f8fafc&fontAlignY=42&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20AI%20Engineer&descSize=17&descColor=38bdf8&descAlignY=66" width="100%" alt="Header Banner" />
+  <!-- Pastikan anda telah menukar video .mp4 kepada asta.gif dan muat naik ke dalam repo gweny11/gweny11 -->
+  <img src="./asta.gif" width="100%" alt="Asta Hero Banner" />
 
-  <!-- PILIHAN 2: Jika anda mahu menjadikan GIF Asta sebagai Banner Paling Atas (seperti gambar rujukan), buang tanda komen di bawah: -->
-  <!-- <img src="./asta.gif" width="100%" alt="Asta Hero Banner" /> -->
+  <br/><br/>
 
   <!-- ANIMATED TYPING TITLE -->
   <a href="https://github.com/gweny11">
@@ -26,9 +25,8 @@
   <img src="https://img.shields.io/badge/Main%20Focus-Python%20%26%20AI-0d1117?style=flat-square&labelColor=161b22&color=e11d48" alt="Main Focus: Python & AI" />
 </p>
 
-<!-- RIGHT SIDE ASTA GIF -->
-<!-- Pastikan anda telah menukar video .mp4 kepada asta.gif dan muat naik ke dalam repo gweny11/gweny11 -->
-<img align="right" width="340" src="./asta.gif" alt="Asta Coding Aura" />
+<!-- RIGHT SIDE CODING ILLUSTRATION -->
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Illustration" />
 
 🌟 **Currently pursuing a Diploma in Software Engineering in Malaysia**
 
