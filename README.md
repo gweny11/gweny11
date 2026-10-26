@@ -1,126 +1,108 @@
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e1b4b,100:312e81&height=200&section=header&text=Gwen&fontSize=56&fontColor=f8fafc&fontAlignY=42&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20AI%20Engineer&descSize=18&descColor=94a3b8&descAlignY=68" width="100%" alt="Gwen Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:8B5CF6&text=Gwen&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Gwen - Software Engineering Student, Aspiring AI Engineer" width="100%" />
 
-<!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/gweny11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+strong+foundations+in+Software+Engineering;Exploring+Artificial+Intelligence+%26+Machine+Learning;Experimenting+with+LLMs+and+AI+Agents;Learning+consistently+to+build+useful+AI-powered+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Software+Engineering+Student;Aspiring+AI+Engineer;Learning+Python+%26+Machine+Learning;Curious+about+LLMs+%26+AI+Agents" alt="Typing animation" />
 </a>
 
 <br/>
 
-<!-- STATUS & LOCATION BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-SE%20Diploma%20Student-1e1b4b?style=flat-square&labelColor=0f172a&color=6366f1" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-1e1b4b?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Malaysia%20%F0%9F%87%B2%F0%9F%87%BE-1e1b4b?style=flat-square&labelColor=0f172a&color=818cf8" alt="Location" />
-</p>
+<img src="https://img.shields.io/badge/Location-Malaysia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF&labelColor=161B22" alt="Location: Malaysia" />
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=8B5CF6&labelColor=161B22" alt="Focus: AI Engineering" />
+<img src="https://img.shields.io/badge/Status-Always%20Learning-0D1117?style=for-the-badge&logo=gitbook&logoColor=58A6FF&labelColor=161B22" alt="Status: Always Learning" />
 
 </div>
 
 ---
 
-### `01` // About Me
+## 👋 About Me
 
-Hi, I'm **Gwen** — a Software Engineering diploma student based in Malaysia with a strong curiosity for how intelligent systems are designed, built, and integrated into real-world software.
+I'm **Gwen**, a Software Engineering diploma student based in Malaysia, working toward becoming an **AI Engineer**. I'm curious about how intelligent systems work, and I'm building a strong foundation in programming fundamentals along the way.
 
-Right now, I am focused on strengthening my core programming and software engineering fundamentals while actively exploring **Artificial Intelligence**, **Machine Learning**, **Large Language Models (LLMs)**, and **AI Agents**. My long-term goal is to grow into an **AI Engineer** capable of bridging solid software architecture with practical, useful AI-powered products.
-
-```yaml
-name: Gwen
-handle: "@gweny11"
-location: Malaysia
-current_stage: Software Engineering Diploma Student
-direction: Aspiring AI Engineer
-mindset: Curious, fundamentals-first, and always iterating
-```
+My long-term ambition is to build useful AI-powered products and develop solid technical skills. I'm still learning, and I enjoy that process.
 
 ---
 
-### `02` // Areas of Interest
+## 🧠 Areas of Interest
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Artificial Intelligence & ML</h4>
-      <p>Exploring core machine learning concepts, model workflows, and the foundations behind modern intelligent systems.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 LLMs & AI Agents</h4>
-      <p>Understanding how large language models reason, interact with tools, and power autonomous or assistive agent workflows.</p>
-    </td>
+    <td align="center" width="33%"><b>🤖 AI Engineering</b></td>
+    <td align="center" width="33%"><b>📊 Machine Learning</b></td>
+    <td align="center" width="33%"><b>💬 Large Language Models</b></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ AI Engineering</h4>
-      <p>Learning how to move AI from theory into reliable software applications with clean interfaces and practical utility.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Software Engineering Fundamentals</h4>
-      <p>Building a strong base in problem-solving, clean code practices, data structures, and maintainable system design.</p>
-    </td>
+    <td align="center" width="33%"><b>🧩 AI Agents</b></td>
+    <td align="center" width="33%"><b>🛠️ Software Engineering</b></td>
+    <td align="center" width="33%"><b>⚙️ Programming Fundamentals</b></td>
   </tr>
 </table>
 
 ---
 
-### `03` // Tech Stack & Tools
+## 🧰 Tech Stack & Tools
 
 <div align="center">
 
-**Languages & Core**
+**Languages**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python" />
-  <img src="https://img.shields.io/badge/Markdown-0f172a?style=for-the-badge&logo=markdown&logoColor=f8fafc" alt="Markdown" />
-</p>
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
 
-**Development Environment & Workflow**
+**Tools & Platforms**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
 
-*Continuously expanding my toolkit as I progress through my software engineering studies and AI exploration.*
+<!--
+  Add icons ONLY for things you genuinely use. Examples:
+  Languages: js, ts, java, cpp, c, html, css, sql
+  Tools: vscode, linux, docker, jupyter (not available - use a badge), figma
+  Example: <img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" alt="Tools" />
+-->
 
 </div>
 
 ---
 
-### `04` // GitHub Overview
+## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gweny11&show_icons=true& bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=6366f1&border_color=30363d&hide_border=false" height="165" alt="Gwen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gweny11&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d&hide_border=false" height="165" alt="Gwen's Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gweny11&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=6366F1&fire=38BDF8&currStreakLabel=38BDF8" height="165" alt="Gwen's Contribution Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gweny11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gweny11&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=gweny11&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-### `05` // Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/gweny11">
-  <img src="https://img.shields.io/badge/GitHub-gweny11-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc&labelColor=0f172a&color=312e81" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-gweny11-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub" />
 </a>
-<!-- Optional LinkedIn Badge: Replace YOUR_LINKEDIN_USERNAME below and uncomment when ready -->
-<!--
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0f172a&color=1e293b" alt="LinkedIn" />
+
+<!-- Optional: uncomment and replace YOUR-LINKEDIN-USERNAME with your real profile URL slug.
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
 </a>
 -->
 
-<br/><br/>
+</div>
 
-<sub><i>"Focused on strong fundamentals, curious exploration, and thoughtful engineering — one step at a time."</i></sub>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=90&section=footer" width="100%" alt="Footer Banner" />
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=520&height=30&lines=Learn+deliberately.+Build+thoughtfully.+Improve+continuously." alt="Learn deliberately. Build thoughtfully. Improve continuously." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:8B5CF6&section=footer" alt="" width="100%" />
 
 </div>
