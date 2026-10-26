@@ -8,11 +8,11 @@
 <img src="https://img.shields.io/badge/ROLE-SE+DIPLOMA+STUDENT-0d1117?style=flat-square&labelColor=161b22&color=06b6d4" alt="Role: SE Diploma Student" />
 
 <!--HERO BANNER-->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:4c1d95,100:0891b2&height=220&section=header&text=G%20W%20E%20N&fontSize=56&fontColor=f8fafc&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20ASPIRING%20AI%20ENGINEER&descSize=14&descColor=38bdf8&descAlignY=68&stroke=a855f7&strokeWidth=1" width="100%" alt="Gwen Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:4c1d95,100:0891b2&height=220&section=header&text=G%20W%20E%20N&fontSize=56&fontColor=f8fafc&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20LEARNING%20%26%20EXPLORING%20AI&descSize=14&descColor=38bdf8&descAlignY=68&stroke=a855f7&strokeWidth=1" width="100%" alt="Gwen Header Banner" />
 
 <!--ANIMATED TYPING SUBTITLE-->
 <a href="https://github.com/gweny11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+Foundations+in+Software+Engineering+%26+AI;Exploring+Machine+Learning%2C+LLMs+%26+AI+Agents;Driven+by+Curiosity%2C+Clean+Code+%26+Continuous+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Learning+the+craft+of+software+engineering%2C+step+by+step;Exploring+Python%2C+machine+learning+%26+how+AI+systems+work;Building+a+strong+foundation+through+practice+%26+curiosity" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,19 +37,19 @@
     <td width="52%" valign="top">
       <h4><b>About Me</b></h4>
       <p>
-        Hi, I'm <b>Gwen</b> — a <b>Software Engineering diploma student</b> based in Malaysia with a strong curiosity for how intelligent systems are designed, built, and integrated into real-world software.
+        Hi, I'm <b>Gwen</b> — a <b>Software Engineering diploma student</b> in Malaysia, currently in the early stages of figuring out how good software is built and how intelligent systems work under the hood.
       </p>
       <p>
-        I am currently focused on strengthening my core programming fundamentals while actively learning the foundations of <b>Artificial Intelligence</b> and <b>AI Engineering</b>. My long-term goal is to grow into a well-rounded engineer capable of building reliable, useful AI-powered products.
+        Right now, my focus is on getting the fundamentals right: writing clearer code, understanding core programming concepts, and experimenting with <b>Python</b> and <b>Artificial Intelligence</b>. My long-term goal is to grow into an AI engineer, and I'm taking the time to build the technical depth and hands-on experience needed to get there.
       </p>
     </td>
     <td width="48%" valign="top">
-      <h4><b>Areas of Interest</b></h4>
+      <h4><b>What I'm Exploring</b></h4>
       <ul>
-        <li><b>AI Engineering & Applied AI</b> — Bridging software architecture with modern AI capabilities.</li>
-        <li><b>LLMs & AI Agents</b> — Exploring language models, reasoning workflows, and autonomous agent patterns.</li>
-        <li><b>Machine Learning Foundations</b> — Understanding core data-driven concepts and model behavior.</li>
-        <li><b>Software Engineering</b> — Writing clean, maintainable code and mastering core computer science fundamentals.</li>
+        <li><b>Software Engineering Fundamentals</b> — Learning how to structure programs, write readable code, and think through problems methodically.</li>
+        <li><b>AI Engineering</b> — Studying how language models and AI tools can be turned into practical, reliable software.</li>
+        <li><b>Machine Learning Basics</b> — Building an intuition for how models learn from data and where their limits lie.</li>
+        <li><b>LLMs & AI Agents</b> — Experimenting with prompt design, model APIs, and agent workflows to see what works in practice.</li>
       </ul>
     </td>
   </tr>
@@ -125,8 +125,9 @@
 
 <br/><br/>
 
-<sub><code>GWEN // CONTINUOUS LEARNING • THOUGHTFUL ENGINEERING • BUILDING FOR THE FUTURE</code></sub>
+<sub><code>GWEN // STILL LEARNING • BUILDING THE FOUNDATION • ONE STEP AT A TIME</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:0891b2&height=85&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+
